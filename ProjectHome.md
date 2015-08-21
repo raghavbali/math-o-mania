@@ -1,0 +1,1 @@
+This is an educational game. This game aims to help students learn mathematics using the revolutionary Leapmotion device.
